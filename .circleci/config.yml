@@ -1,10 +1,10 @@
-INPUT def main_ {Gateway= 16 (SUb- is) 0
+INPUT def main_ {Gateway= 16 (SUb- is) 0 :
 }
 import telnetlib
 import socket
 def main():
 HOST= ' 192.168.100.153'
-PORT=8231
+PORT=8231 :
 s=socket. socket ( socket . AF _ INET, socket.SOCK_STREAM)
 s.connect((HOST, PORT))
 s.sttimeount(5)
@@ -285,4 +285,56 @@ html. block {Blocked now}
 netstat by Google
    def main said =" Sorry, this server will disable to connected"]
 Ended the mission of Computer if__name__== " __main__":
-positive 
+positive send def main = line{ follow 23 'x'}
+
+send def main is 
+{Gate 1
+}
+OUTPUT main 
+    send aData INPUT  Gateway = 1
+    send aData OUTPUT Gateway = 2
+    send.s aData LOCALPUT Gateway = 3
+    30 S/M aData INPUT Gateway = 4
+    40 S/M aData INPUT  Gateway = 5
+    50 S/M aData OUTPUT Gateway = 6 
+    60 S/M aData INPUT Gateway = 7
+    70 S/M aData OUTPUT Gateway = 8
+    80 S/M aData INPUT Gateway = 9
+    90 S/M aData OUTPUT Gateway = 10
+    send all Gateway = (OUTPUT, INPUT, LOCALPUT)
+    s.send aData = (INPUT, OUTPUT
+)
+    s.send aData = (OUTPUT)
+    s.send aData = (INPUT)
+    s.send aData = (L0CALPUT)
+    s.send 'x' x-2 powered x-11
+    s.blocked 90 S/M aData OUTPUT Gateway =10
+    s.stop change LOCAL IP = to s.send Gateway = 7
+    s.send change LOCAL SEND IP  to s.send Gateway = 9
+    s.send ALL Gateway =(10, 7, 9):
+        Ending point = :
+            send All aData (9, 7, 3)
+            netsh s.send aData Gateway aDataBase 
+            netsh s.block aData Gateway aData
+            creative Gateway = `10', '9', '8', '7', '6', '5', '4', '3', '2', '1' s.Sending ALL aData 
+            netsh Tlan Gateway = x-2, x-1
+            netsh Wlan Gateway = y-2, y-1
+            Creative s.block New Gateways =portal E.S.A
+            T.socket 
+            import s.send MaxData x=1
+            import s.send MaxData x=2
+            import s.send MaxData x=3
+            import s.send MaxData x=4
+            import s.send MaxData x=5
+            import s.send MaxData x=6
+
+            import s.send MaxData y=1 
+            import s.send MaxData y=2 
+            import s.send MaxData y=3
+            import s.send MaxData y=4
+            import s.send MaxData y=5
+            import s.send MaxData y=6
+            import s.send MaxData y=7
+            import s.send MaxData y=8
+            x[=7, 8]
+            
